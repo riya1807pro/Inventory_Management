@@ -25,3 +25,5 @@ This is a simple Inventory Management System made using C language. It is create
 ## Example CSV Output
 
 A CSV file like `rohan_inventory.csv` will be created after export:
+
+## Demo : (image.png)
